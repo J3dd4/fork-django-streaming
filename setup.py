@@ -10,7 +10,7 @@ setup(
     author='Jed',
     author_email='adijed3@gmail.com',
     url='https://github.com/J3dd4/fork-django-streaming',
-    # download_url='https://github.com/sageteam-org/django-sage-streaming/archive/refs/tags/0.1.0.tar.gz',
+    download_url='https://github.com/sageteam-org/django-sage-streaming/archive/refs/tags/0.1.0.tar.gz',
     keywords=['django', 'python', 'streaming', 'video streaming'],
     install_requires=[
         'Django',
