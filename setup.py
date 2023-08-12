@@ -15,5 +15,6 @@ setup(
     install_requires=[
         'Django',
         'djangorestframework'
-    ]
+    ],
+    setup_requires=['wheel']
 )
